@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "mirror-folder": "^3.1.0"
+  },
+  "private": true
+}
